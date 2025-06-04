@@ -8,11 +8,11 @@
         "php": "^7.3|^8.0",
         "ext-ctype": "*",
         "theseer/fdomdocument": "^1.6",
-        "symfony/finder": "^6.2.3"
+        "symfony/finder": "^7.0"
     },
     "config": {
         "platform": {
-            "php": "8.1"
+            "php": "8.2"
         },
         "optimize-autoloader": true,
         "sort-packages": true
